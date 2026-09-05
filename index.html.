@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StockMind AI - Retail Sales & Inventory Copilot</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; background-color: #f4f6f9; color: #333; line-height: 1.6; }
+        .container { max-width: 800px; margin: auto; background: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        h1 { color: #1E88E5; }
+        .btn { display: inline-block; background: #1E88E5; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-top: 15px; }
+        .btn:hover { background: #1565C0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>StockMind AI</h1>
+        <p><strong>Retail Sales & Inventory Copilot (PS03 Hackathon)</strong></p>
+        <p>An AI-powered dashboard for store managers providing data-grounded metrics, proactive stock alerts, and actionable recommendations using Gemini 3.5 Flash and Streamlit.</p>
+        <a href="https://github.com/pradeebasre/StockMind_AI" class="btn">View Source Code on GitHub</a>
+    </div>
+</body>
+</html>
